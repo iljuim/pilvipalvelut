@@ -2,7 +2,7 @@
 
 #### Viikko 2 ####
 
-[Takaisin](/index.md)
+[Takaisin](../index.md)
 
 CI/CD-prosessi (Continuous Integration ja Continuous Deployment/Delivery) on ohjelmistokehityksen menetelmä, joka mahdollistaa automaation ja jatkuvan koodin integroinnin, testaamisen ja julkaisemisen. CI-vaiheessa kehittäjät yhdistävät muutoksensa useita kertoja päivässä, ja jokainen muutos testataan automaattisesti virheiden havaitsemiseksi nopeasti. CD-vaiheessa testattu koodi julkaistaan automaattisesti joko tuotantoon (Deployment) tai jatkokehitykseen (Delivery), jolloin uudet ominaisuudet ja korjaukset saadaan nopeasti loppukäyttäjille. CI/CD-prosessi parantaa ohjelmistokehityksen nopeutta ja laatua vähentämällä virheiden määrää ja nopeuttamalla palautteen saamista.
 
@@ -12,5 +12,5 @@ GitHub Actions ja Jekyll ovat tehokas yhdistelmä verkkosivujen automatisoituun 
 
 Tämän tekstin tuottamisessa on hyödynnetty ChatGPT:n GPT4o-mallia.
 
-[Takaisin](/index.md)
+[Takaisin](../index.md)
 
