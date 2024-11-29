@@ -15,3 +15,5 @@ Analytiikka voi olla tehokas työkalu nettisivuston kehittämisessä. Seuraavass
     
 
 Näiden tietojen perusteella voi tehdä datavetoisia päätöksiä ja parantaa saavutettavuutta ja käyttäjäystävällisyyttä. Harjoitustyössäni ajattelin käyttää sitä sivujen sisäisen navigaation analysoimiseen
+
+[Takaisin](../index.md)
